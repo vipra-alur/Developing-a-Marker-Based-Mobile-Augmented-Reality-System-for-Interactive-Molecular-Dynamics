@@ -1,0 +1,2 @@
+# Developing-a-Marker-Based-Mobile-Augmented-Reality-System-for-Interactive-Molecular-Dynamics
+Marker-based AR is used to simulate submicroscopic chemistry, enabling interactive visualization of covalent bonding. Built with Unity and Vuforia, it models H₂O formation via proximity-based bonding (0.4 units). Optimized for Android using URP, it enhances learning by converting 2D concepts into 3D experiences.
